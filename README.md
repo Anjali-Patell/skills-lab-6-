@@ -1,7 +1,6 @@
 Skills-lab-6
 
-
-Our program takes in the user's name and their favorite color. Then, it returns a statement combining the two.
+Our program takes in the users name and favorite color and returns a statement combining them.
 
 * Anjali Patel
 * Olivia N
