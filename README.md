@@ -9,4 +9,4 @@ The goal of our program is to take in the user's name and favorite color and the
 * Download jupiterhub or go to the website online and log in with your account 
 * After you join jupiterhub you should start a terminal
 * type `git clone https://github.com/Anjali-Patel/skills-lab-6-.git` and press enter 
-* After the folder downloads, double click the `nano.md` file to launch the program
+* After the folder downloads, double click the `nano.save` file to launch the program
