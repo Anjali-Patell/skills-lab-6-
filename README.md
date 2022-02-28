@@ -8,5 +8,5 @@ The goal of our program is to take in the user's name and favorite color and the
 ## How to Use 
 * Download jupiterhub or go to the website online and log in with your account 
 * After you join jupiterhub you should start a terminal
-* type it and press enter
+* type 'git clone https://github.com/Anjali-Patell/skills-lab-6-.git' and press enter
 * After the folder downloads, double click the file to launch the program
